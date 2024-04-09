@@ -185,6 +185,8 @@ section {
 
 .section__pic-container img {
   border-radius: 2rem;
+  border: solid 0.1em;
+  border-color: #f9f9f9;
 }
 
 .section__text {
