@@ -50,10 +50,11 @@ a {
   color: #ce5a67;
   text-decoration: none;
   text-decoration-color: white;
+  background-color: #fcf5ed;
 }
 
 a:hover {
-  color: grey;
+  color: rgb(0, 0, 0);
   text-decoration: underline;
   text-underline-offset: 1rem;
   text-decoration-color: rgb(181, 181, 181);
@@ -271,10 +272,6 @@ section {
   border: rgb(255, 255, 255) 0.1rem solid;
 }
 
-.btn-container {
-  gap: 1rem;
-}
-
 /* ABOUT SECTION */
 
 #about {
@@ -318,6 +315,7 @@ section {
 }
 
 .section-container {
+  display: flex;
   gap: 4rem;
   height: 80%;
 }
