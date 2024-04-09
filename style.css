@@ -9,6 +9,7 @@
 
 body {
   font-family: 'Poppins', sans-serif;
+  background-color: #fcf5ed;
 }
 
 html {
@@ -46,7 +47,7 @@ nav {
 }
 
 a {
-  color: black;
+  color: #ce5a67;
   text-decoration: none;
   text-decoration-color: white;
 }
@@ -60,6 +61,7 @@ a:hover {
 
 .logo {
   font-size: 2rem;
+  color: #ce5a67;
 }
 
 .logo:hover {
@@ -206,6 +208,7 @@ section {
 .title {
   font-size: 3rem;
   text-align: center;
+  color: #1481fe;
 }
 
 #socials-container {
